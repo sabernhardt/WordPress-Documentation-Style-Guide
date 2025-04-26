@@ -2,7 +2,7 @@
 
 [info] **Highlight:** Use straight apostrophes. [/info]  
 
-Use straight apostrophes, the same character as a single quotation mark (<code style="display:inline">'</code>). It is completely fine to use straight apostrophes in code snippets.
+Use straight apostrophes, the same character as a single quotation mark (<code style="display: inline; background: transparent; font-family: inherit; padding: 0;">'</code>). It is completely fine to use straight apostrophes in code snippets.
 
 ## Apostrophes in contractions
 
